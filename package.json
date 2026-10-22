@@ -19,7 +19,7 @@
     "@tanstack/react-devtools": "latest",
     "@tanstack/react-router": "^1.170.32",
     "@tanstack/react-router-devtools": "latest",
-    "@tanstack/react-start": "^1.168.49",
+    "@tanstack/react-start": "^1.168.60",
     "clsx": "^2.1.1",
     "framer-motion": "^13.1.1",
     "lucide-react": "^1.34.0",
